@@ -10,7 +10,9 @@
     "static-extraction-5": "VARIATIONS=5 babel-node static-extraction",
     "static-extraction-10": "VARIATIONS=10 babel-node static-extraction",
     "static-extraction-20": "VARIATIONS=20 babel-node static-extraction",
-    "static-extraction": "babel-node static-extraction"
+    "static-extraction": "babel-node static-extraction",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "babel-cli": "^6.18.0",
@@ -25,6 +27,8 @@
     "fela-preset-web": "^5.0.8",
     "fela-tools": "^5.0.7",
     "fela-utils": "^6.0.1",
-    "webpack": "^1.14.0"
-  }
+    "webpack": "^1.14.0",
+    "snyk": "^1.189.0"
+  },
+  "snyk": true
 }
