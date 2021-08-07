@@ -22,7 +22,7 @@
     "es6-shim": "0.35.1",
     "fela": "4.2.6",
     "fela-dom": "4.2.6",
-    "http-server": "0.9.0",
+    "http-server": "0.13.0",
     "localStorage": "1.0.3",
     "node-uuid": "1.4.7",
     "reflect-metadata": "0.1.3",
