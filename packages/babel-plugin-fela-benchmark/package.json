@@ -25,6 +25,6 @@
     "fela-preset-web": "^5.0.8",
     "fela-tools": "^5.0.7",
     "fela-utils": "^6.0.1",
-    "webpack": "^1.14.0"
+    "webpack": "^3.0.0"
   }
 }
