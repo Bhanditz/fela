@@ -24,7 +24,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "dog-names": "^1.0.2",
+    "dog-names": "^2.1.0",
     "fela": "^5.2.0",
     "fela-beautifier": "^5.0.7",
     "fela-plugin-embedded": "^5.1.2",
