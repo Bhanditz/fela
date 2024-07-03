@@ -26,8 +26,8 @@
     "react": "*"
   },
   "dependencies": {
-    "fela": "^5.2.0",
-    "fela-dom": "^5.0.8",
+    "fela": "^6.0.0",
+    "fela-dom": "^7.0.0",
     "prop-types": "^15.5.8"
   }
 }
